@@ -19,7 +19,6 @@ This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for t
 ![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnBuZXZ0aGhqNTFtd3Q0MnBrbXUwcjBjNjI4M3JqcTFkaGw4eXdoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wXFdM9bohG4bqK2qOT/giphy.gif
 )
 ![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExem4zOGJrdml6Y2J6bXBkeGk1MzdnN2ljeHA2NGM3OTFnOTF5ajFxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aYKfK57T7t8Ndraf66/giphy.gif)
-###  If you have any doubt or want to contribute feel free to hit me up on (hirthicksofficial@gmail.com) & (pnandhiniofficial@gmail.com)
                                                                            
 ## Tracking With Object Detection Demo
 
@@ -78,6 +77,7 @@ $ streamlit run app.py
 ```
 </br>
 
+###  If you have any doubt or want to contribute feel free to hit me up on (hirthicksofficial@gmail.com) & (pnandhiniofficial@gmail.com)
 
 
 
