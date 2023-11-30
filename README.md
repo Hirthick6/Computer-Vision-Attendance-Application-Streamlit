@@ -24,7 +24,7 @@ This repository is a comprehensive open-source project that demonstrates the int
 
 This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for the community support for the cloud upload. You can check the demo of this web application on the link below.
 
-[[yolov8-streamlit-detection-tracking-webapp](https://codingmantras-yolov8-streamlit-detection-tracking-app-njcqjg.streamlit.app/)](https://github.com/Hirthick6/Computer-Vision-Attendance-Application-Streamlit)
+[yolov8-streamlit-detection-tracking-webapp](https://codingmantras-yolov8-streamlit-detection-tracking-app-njcqjg.streamlit.app/)](https://github.com/Hirthick6/Computer-Vision-Attendance-Application-Streamlit)
 
 ## Project Overview:
 
