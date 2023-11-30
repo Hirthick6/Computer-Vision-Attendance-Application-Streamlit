@@ -17,6 +17,44 @@ The Application can ->
 3. Dlib
 4. Face Recognition
 5. OpenCV </br>
+# Real-time Object Detection and Tracking with YOLOv8 and Streamlit
+
+This repository is a comprehensive open-source project that demonstrates the integration of object detection and tracking using the YOLOv8 object detection algorithm and Streamlit, a popular Python web application framework for building interactive web applications. This project provides a user-friendly and customizable interface that can detect and track objects in real-time video streams.
+
+## Demo WebApp
+
+This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for the community support for the cloud upload. You can check the demo of this web application on the link below.
+
+[yolov8-streamlit-detection-tracking-webapp](https://codingmantras-yolov8-streamlit-detection-tracking-app-njcqjg.streamlit.app/)
+
+## Project Overview:
+
+#### Mr. Hirthick and Ms. Nandhini have successfully completed a groundbreaking project over the course of six months, focusing on Real-time Object Detection and Tracking using YOLOv8 and Streamlit. This collaborative effort showcases their expertise in computer vision, machine learning, and software development.
+
+- ### Team Members
+![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnBuZXZ0aGhqNTFtd3Q0MnBrbXUwcjBjNjI4M3JqcTFkaGw4eXdoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wXFdM9bohG4bqK2qOT/giphy.gif
+)
+![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExem4zOGJrdml6Y2J6bXBkeGk1MzdnN2ljeHA2NGM3OTFnOTF5ajFxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aYKfK57T7t8Ndraf66/giphy.gif)
+###  If you have any doubt or want to contribute feel free to hit me up on (hirthicksofficial@gmail.com) & (pnandhiniofficial@gmail.com)
+                                                                           
+## Tracking With Object Detection Demo
+
+<https://user-images.githubusercontent.com/104087274/234874398-75248e8c-6965-4c91-9176-622509f0ad86.mov>
+
+## Demo Pics
+
+### Home page
+
+<img src="https://github.com/Hirthick6/YOLOv8-Object-Detection-and-Tracking-streamlit-/blob/main/assets/pic1.png" >
+
+### Page after uploading an image and object detection
+
+<img src="https://github.com/Hirthick6/YOLOv8-Object-Detection-and-Tracking-streamlit-/blob/main/assets/pic3.png" >
+
+### Segmentation task on image
+
+<img src="https://github.com/Hirthick6/YOLOv8-Object-Detection-and-Tracking-streamlit-/blob/main/assets/segmentation.png" >
+
 
 ## How to Run
 * Clone the repository
