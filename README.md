@@ -4,12 +4,7 @@ The Application can ->
 * Enter a new student's name and upload picture of him/her.
 * Take attendance using face recognition technology of registered students.
 * View attendance list in the form of a table. </br>
-## Technology Stack
-1. Python (*v - 3.9.13*)
-2. Streamlit
-3. Dlib
-4. Face Recognition
-5. OpenCV </br>
+
 ## Demo WebApp
 
 This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for the community support for the cloud upload. You can check the demo of this web application on the link below.
@@ -47,6 +42,13 @@ This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for t
 </br>
 
 ![View Attendance Page](https://github.com/dest-royer02/Attendance_Application/blob/main/Extras_for_Readme_File/4.png)
+
+## Technology Stack
+1. Python (*v - 3.9.13*)
+2. Streamlit
+3. Dlib
+4. Face Recognition
+5. OpenCV </br>
 
 ## How to Run
 * Clone the repository
