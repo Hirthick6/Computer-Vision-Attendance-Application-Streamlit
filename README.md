@@ -1,4 +1,4 @@
-# Attendance Application</br></br>
+# Computer-Vision-Attendance-Application-Streamli/br>
 ## Features
 The Application can ->
 * Enter a new student's name and upload picture of him/her.
