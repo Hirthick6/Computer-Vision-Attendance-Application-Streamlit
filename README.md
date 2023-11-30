@@ -40,12 +40,15 @@ This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for t
 
 ### Page after uploading an image and object detection
 
-<img src="https://github.com/Hirthick6/YOLOv8-Object-Detection-and-Tracking-streamlit-/blob/main/assets/pic3.png" >
+**Images of the Application**</br>
 
-### Segmentation task on image
+![Entry Page](https://github.com/dest-royer02/Attendance_Application/blob/main/Extras_for_Readme_File/2.png)
+</br>
 
-<img src="https://github.com/Hirthick6/YOLOv8-Object-Detection-and-Tracking-streamlit-/blob/main/assets/segmentation.png" >
+![Mark Attendance Page](https://github.com/dest-royer02/Attendance_Application/blob/main/Extras_for_Readme_File/3.png)
+</br>
 
+![View Attendance Page](https://github.com/dest-royer02/Attendance_Application/blob/main/Extras_for_Readme_File/4.png)
 
 ## How to Run
 * Clone the repository
@@ -75,15 +78,6 @@ $ streamlit run app.py
 ```
 </br>
 
-## Other Content
-**Images of the Application**</br>
 
-![Entry Page](https://github.com/dest-royer02/Attendance_Application/blob/main/Extras_for_Readme_File/2.png)
-</br>
-
-![Mark Attendance Page](https://github.com/dest-royer02/Attendance_Application/blob/main/Extras_for_Readme_File/3.png)
-</br>
-
-![View Attendance Page](https://github.com/dest-royer02/Attendance_Application/blob/main/Extras_for_Readme_File/4.png)
 
 
