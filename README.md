@@ -1,6 +1,5 @@
 # Attendance Application</br></br>
 
-![Home Page](https://github.com/dest-royer02/Attendance_Application/blob/main/Extras_for_Readme_File/1.png)
 
 ## Introduction
 A basic Attendance Management Web Application using Face Recognition built under **Microsoft Engage'22**. </br>
