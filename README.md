@@ -1,30 +1,22 @@
 # Attendance Application</br></br>
-
-
 ## Introduction
 A basic Attendance Management Web Application using Face Recognition built under **Microsoft Engage'22**. </br>
-
 ## Features
 The Application can ->
 * enter a new student's name and upload picture of him/her.
 * take attendance using face recognition technology of registered students.
 * view attendance list in the form of a table. </br>
-
 ## Technology Stack
 1. Python (*v - 3.9.13*)
 2. Streamlit
 3. Dlib
 4. Face Recognition
 5. OpenCV </br>
-# Real-time Object Detection and Tracking with YOLOv8 and Streamlit
-
-This repository is a comprehensive open-source project that demonstrates the integration of object detection and tracking using the YOLOv8 object detection algorithm and Streamlit, a popular Python web application framework for building interactive web applications. This project provides a user-friendly and customizable interface that can detect and track objects in real-time video streams.
-
 ## Demo WebApp
 
 This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for the community support for the cloud upload. You can check the demo of this web application on the link below.
 
-[yolov8-streamlit-detection-tracking-webapp](https://codingmantras-yolov8-streamlit-detection-tracking-app-njcqjg.streamlit.app/)](https://github.com/Hirthick6/Computer-Vision-Attendance-Application-Streamlit)
+[Computer-Vision-Attendance-Application-Streamlit](https://github.com/Hirthick6/Computer-Vision-Attendance-Application-Streamlit)](https://github.com/Hirthick6/Computer-Vision-Attendance-Application-Streamlit)
 
 ## Project Overview:
 
