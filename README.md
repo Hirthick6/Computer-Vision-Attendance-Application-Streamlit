@@ -20,15 +20,11 @@ This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for t
 )
 ![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExem4zOGJrdml6Y2J6bXBkeGk1MzdnN2ljeHA2NGM3OTFnOTF5ajFxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aYKfK57T7t8Ndraf66/giphy.gif)
                                                                            
-## Tracking With Object Detection Demo
-
-<https://user-images.githubusercontent.com/104087274/234874398-75248e8c-6965-4c91-9176-622509f0ad86.mov>
-
 ## Demo Pics
 
 ### Home page
 
-<img src="https://github.com/Hirthick6/YOLOv8-Object-Detection-and-Tracking-streamlit-/blob/main/assets/pic1.png" >
+<img src="https://github.com/Hirthick6/Computer-Vision-Attendance-Application-Streamlit/tree/main/output/New entry.png" >
 
 ### Page after uploading an image and object detection
 
