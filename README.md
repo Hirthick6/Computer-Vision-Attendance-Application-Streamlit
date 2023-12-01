@@ -34,13 +34,15 @@ This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for t
 </br>
 
 ## Team Member attendance screen shot 1:
-<"https://github.com/Hirthick6/Computer-Vision-Attendance-Application-Streamlit/blob/main/output/hirthick.png">
+<img src="https://github.com/Hirthick6/Computer-Vision-Attendance-Application-Streamlit/blob/main/output/hirthick.png">
 </br>
+
 ## Team Member attendance screen shot 2:
-<"https://github.com/Hirthick6/Computer-Vision-Attendance-Application-Streamlit/blob/main/output/nandhini.png">
+<img src="https://github.com/Hirthick6/Computer-Vision-Attendance-Application-Streamlit/blob/main/output/nandhini.png">
 </br>
+
 ## Attendance Result sheet:
-<"https://github.com/Hirthick6/Computer-Vision-Attendance-Application-Streamlit/blob/main/output/attendance%20sheet.png">
+<img src="https://github.com/Hirthick6/Computer-Vision-Attendance-Application-Streamlit/blob/main/output/attendance%20sheet.png">
 </br>
 
 ## Technology Stack
