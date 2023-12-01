@@ -24,7 +24,7 @@ This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for t
 
 ### Home page
 
-<img src="https://github.com/Hirthick6/Computer-Vision-Attendance-Application-Streamlit/blob/main/output/home.png >
+<img src="https://github.com/Hirthick6/Computer-Vision-Attendance-Application-Streamlit/blob/main/output/home.png">
 
 ### Page after uploading an image and object detection
 
