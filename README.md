@@ -1,6 +1,6 @@
 # Computer-Vision-Attendance-Application-Streamlit</br>
 ## Features
-The Application can ->
+The Application can :
 * Enter a new student's name and upload picture of him/her.
 * Take attendance using face recognition technology of registered students.
 * View attendance list in the form of a table. </br>
@@ -26,17 +26,22 @@ This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for t
 
 <img src="https://github.com/Hirthick6/Computer-Vision-Attendance-Application-Streamlit/blob/main/output/home.png">
 
-### Page after uploading an image and object detection
+### Performance of Attendance Application System
 
 **Images of the Application**</br>
-
-![Entry Page](https://github.com/dest-royer02/Attendance_Application/blob/main/Extras_for_Readme_File/2.png)
+## New Entry
+<img src="https://github.com/Hirthick6/Computer-Vision-Attendance-Application-Streamlit/blob/main/output/New%20entry.png">
 </br>
 
-![Mark Attendance Page](https://github.com/dest-royer02/Attendance_Application/blob/main/Extras_for_Readme_File/3.png)
+## Team Member attendance screen shot 1:
+<"https://github.com/Hirthick6/Computer-Vision-Attendance-Application-Streamlit/blob/main/output/hirthick.png">
 </br>
-
-![View Attendance Page](https://github.com/dest-royer02/Attendance_Application/blob/main/Extras_for_Readme_File/4.png)
+## Team Member attendance screen shot 2:
+<"https://github.com/Hirthick6/Computer-Vision-Attendance-Application-Streamlit/blob/main/output/nandhini.png">
+</br>
+## Attendance Result sheet:
+<"https://github.com/Hirthick6/Computer-Vision-Attendance-Application-Streamlit/blob/main/output/attendance sheet.png">
+</br>
 
 ## Technology Stack
 1. Python (*v - 3.9.13*)
